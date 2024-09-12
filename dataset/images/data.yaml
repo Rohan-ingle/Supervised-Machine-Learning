@@ -1,0 +1,7 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['HMV', 'LMV', 'Pedestrian', 'RoadDamages', 'SpeedBump', 'UnsurfacedRoad','Pothole']
+
